@@ -75,6 +75,13 @@ Product and pilot-development work at Choice Bank / Bees Credit Kenya, combining
 
 [Case study →](https://Nandwa254.github.io/projects/imarika.html)
 
+### Venture Fundraising & Readiness
+Founder-led preparation for HomeLink360 covering venture narrative, operating plan, product roadmap, early evidence, customer model and disciplined use of funds.
+
+**USD 75,000 fundraising plan.**
+
+[Case study →](https://Nandwa254.github.io/projects/fundraising.html)
+
 ---
 
 ## How I think about systems
@@ -102,6 +109,9 @@ I am especially interested in work where **people + process + product + data + t
 ## Career snapshot
 
 **Founder & Operations Lead — Settle360**  
+2026 — Present
+
+**Revenue Project Lead — Government of Kenya, Kajiado County**  
 2026 — Present
 
 **Founder — HomeLink360**  
