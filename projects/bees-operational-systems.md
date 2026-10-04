@@ -1,126 +1,60 @@
 # Operational Systems & Automation — Bees Credit / Choice Bank
 
-## Overview
+During my work across operations and product at **Bees Credit / Choice Bank**, I built and supported several internal systems around practical operating problems.
 
-While working across operations and product responsibilities at **Bees Credit / Choice Bank**, I designed several internal systems to solve practical operating problems.
+Three examples stand out.
 
-I did not build these as side projects. I built them around work the teams were doing every day.
+## Loan Process Time & Turnaround Calculator
 
-Three examples are especially important to me:
+I wanted to understand where loan-processing time was actually being spent.
 
-1. **Loan Process Time & Turnaround Calculator** — an Excel-based system I designed to measure time spent at each loan process stage and with each person handling the file.
-2. **Branch Issue Escalation & Resolution System** — an Apps Script-based system I built around a unified escalation matrix and resolution framework for branch operational issues.
-3. **Imarika Loan Tracking System** — a custom tracking platform I built for operations and finance to follow loans through the MSME product workflow.
-
-## 1. Loan Process Time & Turnaround Calculator
-
-The problem was not simply that loans were taking too long. I needed to see exactly where the time was being spent.
-
-I designed an Excel-based calculation system that captured the time a loan file spent at each process stage and with each person it passed through.
-
-I used the system to compare actual time against expected time and make delays visible.
-
-We were working toward disbursement targets of:
+I designed an Excel-based system that measured the time a file spent at each stage and with each person handling it. This made it easier to compare actual turnaround with the expected targets:
 
 - **6 hours** for logbook loans
 - **12 hours** for asset finance loans
 
-measured from loan origination to disbursement.
-
-I used the results to move the discussion from a general complaint about slow processing to a more useful question:
-
-> **Which stage or handoff is actually consuming the time?**
+The system helped move the conversation from “loans are taking too long” to a more specific question: where is the delay happening?
 
 The wider workflow redesign and automation work resulted in a **70% reduction in process turnaround time**.
 
-## 2. Branch Issue Escalation & Resolution System
+## Branch Issue Escalation & Resolution System
 
-I also designed a unified operating framework for branch issues.
+Branch issues were being raised through different channels and could be handled differently depending on the person or branch involved.
 
-Different issues could otherwise be raised through different channels and handled differently by different people. That made ownership, response times and escalation inconsistent.
+I designed a common framework for classifying issues, assigning ownership, setting escalation levels and tracking response and resolution.
 
-I designed:
+I then built the supporting Apps Script-based system around that workflow.
 
-- an issue classification structure;
-- ownership and responsibility;
-- escalation levels;
-- response and resolution expectations;
-- the resolution workflow;
-- and the supporting Apps Script-based system.
+The main goal was simple: a branch should know where to raise an issue, who owns it, what happens next and when it needs to be escalated.
 
-My objective was to bring different branches and different types of operational issues into one consistent process.
+## Imarika Loan Tracking System
 
-I wanted a branch to be able to answer four basic questions:
+While working on the **Imarika MSME lending product**, I built a custom tracking system for operations and finance.
 
-**Where do I raise this?**  
-**Who owns it?**  
-**What happens next?**  
-**When does it need to be escalated?**
+I designed it around the actual loan workflow so the teams could follow and monitor loans more clearly.
 
-I am not reproducing the original system or its internal logic publicly.
-
-## 3. Imarika Loan Tracking System
-
-While helping build the **Imarika MSME lending product**, I designed a custom loan-tracking system that was used by operations and finance.
-
-I wanted better visibility around the movement and monitoring of loans rather than keeping information fragmented across teams.
-
-I designed the system around the actual operating workflow and the information teams needed to move and monitor loans.
-
-I did this alongside my product responsibilities. I personally helped map **400+ businesses across three counties**, using field observations and customer feedback to shape customer journeys, operating priorities and supporting systems.
-
-## How I approached all three
-
-The common pattern was:
-
-**Understand the workflow → identify what is missing → define the control or decision → capture the right data → automate repetitive work → make ownership visible → measure what changed.**
-
-I learned that a useful operational system does not start with a screen or a spreadsheet.
-
-For me, it starts with understanding how the work actually happens.
-
-## My role
-
-I was responsible for connecting the operating problem to the solution.
-
-That meant understanding the process, working through the logic, designing the workflow and system structure, and working with the teams that had to use it.
-
-I also coordinated across operations, finance, credit, compliance, collections and technology.
+This work sat alongside my product responsibilities. I also mapped **400+ businesses across three counties** as part of the product research and pilot work, using field observations and customer feedback to shape the product and operating model.
 
 ## What I learned
 
-### Visibility changes behaviour
+The common lesson across these systems was that the technology came after the process.
 
-When I make time, ownership and exceptions measurable, operational conversations become much more specific.
+I first needed to understand how the work was being done, where ownership was unclear and what information people needed to make decisions. Only then did it make sense to automate or build a tool.
 
-### Automation should follow process understanding
+I also found that making time, ownership and exceptions visible can change the quality of operational conversations very quickly.
 
-I have seen that automating a bad process only makes the bad process faster. I need to understand the workflow first.
+## My role
 
-### Systems are part of operations
+My role connected the operating problem to the solution.
 
-I believe a system is useful when it helps people make better decisions and complete work more reliably. I do not believe a system should exist simply because technology is available.
+I worked through the process and logic, designed the workflow and system structure, and worked with the teams that needed to use the systems. I also worked across operations, finance, credit, compliance, collections and technology.
 
-## Confidentiality boundary
+## What is not included here
 
-These were internal business systems.
+These were internal business systems, so I am not publishing the original spreadsheets, source code, live loan records, credentials, internal URLs or employer-specific security and implementation details.
 
-I have therefore intentionally **not published**:
-
-- original spreadsheets;
-- Apps Script source code;
-- live loan records;
-- credentials or authentication information;
-- internal URLs;
-- employer-specific security logic;
-- proprietary implementation details.
-
-I use the public portfolio to describe my contribution and the operating problems I solved. I do not reproduce former employer systems.
-
-## Related work
+This page is about the work itself and my contribution to it.
 
 [Imarika product case study](https://Nandwa254.github.io/projects/imarika.html)
 
 [Back to my portfolio](https://Nandwa254.github.io/)
-
-[GitHub profile](https://github.com/Nandwa254/Nandwa254)
