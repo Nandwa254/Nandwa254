@@ -85,7 +85,7 @@ Founder-led preparation for HomeLink360 covering venture narrative, operating pl
 ### Hardware-Based Security System
 A personal engineering study in which I broke an authentication and physical access-control concept into discrete hardware functions, exploring timing, state, validation, lockout, alerting and actuation without starting from conventional software.
 
-[Case study →](projects/hardware-security-system.md)
+[Portfolio case study →](https://Nandwa254.github.io/projects/hardware-security.html) · [GitHub case study →](projects/hardware-security-system.md)
 
 ---
 
