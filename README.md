@@ -2,144 +2,181 @@
 
 ### Operations · Product · Venture Building · Technology-enabled Execution
 
-I work at the intersection of **operations, financial services, customer experience, product execution and digital systems**.
+I build and improve businesses by working close to the real operation.
 
-Over 9+ years, I have led high-volume customer and collections operations, supported lending-product development, redesigned workflows, built operational reporting and systems, and translated real business problems into practical tools.
+My experience sits across **operations leadership, financial services, product development, customer experience, process improvement and digital systems**. Over 9+ years, I have led teams, redesigned workflows, supported lending products, built operational tools and worked on founder-led ventures.
 
-> **My operating principle:** understand the real workflow first, make ownership and exceptions visible, then use process, data and technology to make execution better.
+I use this GitHub profile as a **curated record of that work**.
 
----
+It is not a collection of every system I have ever touched. It is the public layer of my professional work: the projects I can show, the case studies I can explain, and the thinking behind how I approach problems.
 
-## Portfolio directory
-
-Everything below is connected to my public portfolio. The **Repository** column points to GitHub, while the **Case study** column points to the portfolio explanation where one exists.
-
-| Project | Repository | Case study |
-| --- | --- | --- |
-| **Personal portfolio** | [nandwa254.github.io](https://github.com/Nandwa254/nandwa254.github.io) | [Portfolio](https://Nandwa254.github.io/) |
-| **Operations CRM & Workflow Platform** | [Repository](https://github.com/Nandwa254/operations-crm-case-study) | [Case study](https://Nandwa254.github.io/projects/operations-crm.html) |
-| **Client Portal Application** | [Repository](https://github.com/Nandwa254/client-portal-app-case-study) | [Case study](https://Nandwa254.github.io/projects/client-portal.html) |
-| **Company Website Delivery** | [Repository](https://github.com/Nandwa254/company-website-case-study) | [Case study](https://Nandwa254.github.io/projects/company-website.html) |
-| **HomeLink360** | — | [Case study](https://Nandwa254.github.io/projects/homelink360.html) |
-| **Settle360** | — | [Case study](https://Nandwa254.github.io/projects/settle360.html) |
-| **Imarika MSME Lending Product** | — | [Case study](https://Nandwa254.github.io/projects/imarika.html) |
-| **Venture Fundraising & Readiness** | — | [Case study](https://Nandwa254.github.io/projects/fundraising.html) |
-| **Hardware-Based Security System** | [Profile repository](https://github.com/Nandwa254/Nandwa254/tree/main/projects) | [Case study](https://Nandwa254.github.io/projects/hardware-security.html) |
-| **Bees Credit / Choice Bank — Operational Systems & Automation** | [Profile repository](https://github.com/Nandwa254/Nandwa254/tree/main/projects) | [Case study](https://Nandwa254.github.io/projects/bees-operational-systems.html) |
-
-### Repository vs. case study
-
-Not every project needs its own public repository.
-
-The three dedicated project repositories contain public case-study material. HomeLink360 and Settle360 are represented through the main portfolio because they are founder-led ventures. The Bees Credit / Choice Bank systems and the hardware security project are documented as sanitized case studies because their underlying implementation details are not appropriate for public release.
+> **How I work:** understand the real problem, map the workflow, make ownership and exceptions clear, build what is practical, and measure what changes.
 
 ---
 
-## What I work on
+## Start here
 
-| Area | Focus |
+I have organized this profile so you can see my work from three angles:
+
+**[My portfolio](https://Nandwa254.github.io/)**  
+The best place to understand my background, selected projects and case studies.
+
+**[My projects](https://Nandwa254.github.io/projects/)**  
+A closer look at individual pieces of work and the problems behind them.
+
+**[My GitHub repositories](https://github.com/Nandwa254?tab=repositories)**  
+Public repositories containing projects and case-study material that can be inspected directly.
+
+---
+
+## My work, at a glance
+
+| Work | What you can see |
 | --- | --- |
-| **Operations leadership** | Service delivery, team performance, workflow discipline, quality controls, escalation and continuity |
-| **Product & venture building** | Problem definition, customer journeys, pilots, operating models and founder-led execution |
-| **Credit & collections** | Portfolio operations, recovery workflows, customer support and performance management |
-| **Systems & automation** | CRM, workflow automation, Google Apps Script, Google Sheets, dashboards and digital tools |
-| **Data & decision support** | Advanced Excel, SQL, SPSS, Stata, R and operational reporting |
+| **Operations CRM & Workflow Platform** | A public repository and detailed case study covering customer records, work queues, ownership, follow-ups and operational visibility. |
+| **Client Portal Application** | A public repository and case study covering onboarding, secure access, service requests, document flow, messaging and status visibility. |
+| **Company Website Delivery** | A public repository and case study covering information architecture, positioning, responsive presentation and deployment. |
+| **HomeLink360** | Founder-led housing and financial-services venture with a dedicated portfolio case study. |
+| **Settle360** | Founder-led business support and outsourcing venture with a dedicated portfolio case study. |
+| **Imarika MSME Lending Product** | Product and pilot-development work combining field research, lending operations, customer journeys, systems and cross-functional execution. |
+| **Venture Fundraising & Readiness** | Founder-led work covering venture narrative, operating planning, product roadmap, early evidence and disciplined use of funds. |
+| **Hardware-Based Security System** | Personal engineering study exploring hardware logic, timing, state, validation, lockout, alerting and physical access control. |
+| **Bees Credit / Choice Bank Operational Systems** | Internal operations and product systems covering loan-stage time measurement, issue escalation and resolution, and loan tracking. |
+
+### The structure is deliberate
+
+I have **not** created a separate public repository for every project.
+
+Some work is best understood by reading the case study rather than inspecting a repository. That is especially true for **HomeLink360 and Settle360**, which are founder-led ventures, and for work I completed inside organizations such as **Bees Credit / Choice Bank**, where the original systems, data and implementation details are not mine to publish.
+
+The hardware security project follows the same principle: I show the engineering thinking and architecture, but not sensitive implementation details.
+
+So, when you see **Repository**, there is public material you can inspect. When you see **Case study**, I have intentionally documented the work at the level that can be shared professionally.
+
+**That distinction is part of how I have chosen to present my work, not a gap in the portfolio.**
 
 ---
 
-## Selected evidence
+## Selected repositories
 
-The figures below come from documented professional experience and are presented as evidence, not forecasts.
+### [Operations CRM & Workflow Platform](https://github.com/Nandwa254/operations-crm-case-study)
 
-- **70%** reported reduction in process turnaround after workflow redesign and automation.
-- **KES 800M** collections portfolio exposure in a credit operations leadership role.
-- **150+** distributed-agent operation led during a demanding service-continuity period.
-- **400+** businesses mapped during MSME product research and field development.
+A custom operating platform built around customer records, work queues, ownership, follow-ups, reporting and day-to-day operational visibility.
 
-These figures describe documented experience in my professional materials; they are not forecasts or claims about current portfolio size.
+[Repository](https://github.com/Nandwa254/operations-crm-case-study) · [Case study](https://Nandwa254.github.io/projects/operations-crm.html)
 
----
+### [Client Portal Application](https://github.com/Nandwa254/client-portal-app-case-study)
 
-## Current venture work
-
-### HomeLink360
-**Founder · Product & Operations**
-
-A housing-led financial-services venture focused on helping income-earning renters find and secure homes, solve specific move-in cash-flow needs, and build a verified customer relationship that can support appropriate additional financial products.
-
-[View the HomeLink360 case study →](https://Nandwa254.github.io/projects/homelink360.html)
-
-### Settle360
-**Founder & Operations Lead**
-
-A business support and outsourcing venture focused on translating client requirements into field execution, team deployment, verification, reporting, reconciliation and operating controls.
-
-[View the Settle360 case study →](https://Nandwa254.github.io/projects/settle360.html)
-
----
-
-## Selected work
-
-### Operations CRM & Workflow Platform
-A custom CRM and operating system designed around customer records, work queues, ownership, follow-ups, reporting and operational visibility.
-
-[Repository →](https://github.com/Nandwa254/operations-crm-case-study) · [Case study →](https://Nandwa254.github.io/projects/operations-crm.html)
-
-### Client Portal Application
 A mobile-first customer portal covering onboarding, secure access, service requests, document flow, messaging and status visibility.
 
-[Repository →](https://github.com/Nandwa254/client-portal-app-case-study) · [Case study →](https://Nandwa254.github.io/projects/client-portal.html)
+[Repository](https://github.com/Nandwa254/client-portal-app-case-study) · [Case study](https://Nandwa254.github.io/projects/client-portal.html)
 
-### Company Website Delivery
+### [Company Website Delivery](https://github.com/Nandwa254/company-website-case-study)
+
 A business website project covering information architecture, positioning, responsive presentation, customer access and deployment.
 
-[Repository →](https://github.com/Nandwa254/company-website-case-study) · [Case study →](https://Nandwa254.github.io/projects/company-website.html)
+[Repository](https://github.com/Nandwa254/company-website-case-study) · [Case study](https://Nandwa254.github.io/projects/company-website.html)
+
+---
+
+## Founder-led work
+
+### HomeLink360
+
+**Founder · Product & Operations**
+
+HomeLink360 is a housing-led financial-services venture focused on helping income-earning renters find and secure homes, solve specific move-in cash-flow needs, and build a verified customer relationship that can support appropriate additional financial products.
+
+[Read the HomeLink360 case study →](https://Nandwa254.github.io/projects/homelink360.html)
+
+### Settle360
+
+**Founder & Operations Lead**
+
+Settle360 is a business support and outsourcing venture focused on turning client requirements into field execution, team deployment, verification, reporting, reconciliation and operating controls.
+
+[Read the Settle360 case study →](https://Nandwa254.github.io/projects/settle360.html)
+
+---
+
+## Professional work
 
 ### Imarika MSME Lending Product
-Product and pilot-development work at Choice Bank / Bees Credit Kenya, combining field research, lending operations, customer journeys, system design and cross-functional execution.
+
+**MSME Product Lead · Choice Bank / Bees Credit Kenya**
+
+I supported the design and pilot development of Imarika, combining field research, lending operations, customer journeys, systems and cross-functional execution.
 
 **400+ businesses mapped across three counties.**
 
-[Case study →](https://Nandwa254.github.io/projects/imarika.html)
+[Read the case study →](https://Nandwa254.github.io/projects/imarika.html)
 
-### Venture Fundraising & Readiness
-Founder-led preparation for HomeLink360 covering venture narrative, operating plan, product roadmap, early evidence, customer model and disciplined use of funds.
+### Operational Systems & Automation
 
-**USD 75,000 fundraising plan.**
+**Choice Bank / Bees Credit Kenya**
 
-[Case study →](https://Nandwa254.github.io/projects/fundraising.html)
+I designed and supported practical systems around the operation, including:
 
-### Hardware-Based Security System
-A personal engineering study in which I broke an authentication and physical access-control concept into discrete hardware functions, exploring timing, state, validation, lockout, alerting and actuation without starting from conventional software.
+- loan-process time and turnaround measurement;
+- a unified branch issue escalation and resolution framework;
+- an Imarika loan-tracking system used by operations and finance.
 
-[Portfolio case study →](https://Nandwa254.github.io/projects/hardware-security.html) · [GitHub case study →](projects/hardware-security-system.md)
+The wider workflow redesign and automation work contributed to a **70% reduction in process turnaround**.
 
-### Operational Systems & Automation — Bees Credit / Choice Bank
-Internal systems I designed while working across operations and product responsibilities, including loan-stage time measurement, a unified branch issue escalation and resolution system, and an Imarika loan-tracking platform used by operations and finance.
-
-[Portfolio case study →](https://Nandwa254.github.io/projects/bees-operational-systems.html) · [GitHub case study →](projects/bees-operational-systems.md)
+[Read the case study →](https://Nandwa254.github.io/projects/bees-operational-systems.html)
 
 ---
 
-## How I think about systems
+## Personal engineering work
 
-```text
-Business problem
-      ↓
-Understand the real workflow
-      ↓
-Define users, decisions, controls and exceptions
-      ↓
-Design the process
-      ↓
-Build the practical tool
-      ↓
-Measure what changes
-      ↓
-Iterate
-```
+### Hardware-Based Security System
 
-I am especially interested in work where **people + process + product + data + technology** need to operate as one system.
+This was a personal engineering study into hardware-based authentication and physical access control.
+
+I broke the concept into discrete functions covering **timing, state, validation, lockout, alerting and actuation**, exploring what could be achieved through hardware logic rather than beginning with conventional software.
+
+The public case study shows the architecture and engineering thinking. The original implementation details are intentionally not published.
+
+[Read the case study →](https://Nandwa254.github.io/projects/hardware-security.html) · [GitHub case study →](projects/hardware-security-system.md)
+
+---
+
+## Evidence from my operating experience
+
+These are selected figures from documented professional experience:
+
+| Evidence | Result |
+| --- | --- |
+| **Process improvement** | 70% reported reduction in process turnaround after workflow redesign and automation |
+| **Collections leadership** | KES 800M portfolio exposure in a collections leadership role |
+| **Service operations** | 150+ distributed agents led during a demanding service-continuity period |
+| **Product research** | 400+ businesses mapped during MSME lending product development |
+
+I include these numbers because they help show the scale and outcomes of the work. They are **evidence from past roles, not projections or claims about current portfolio size**.
+
+---
+
+## How I think about building systems
+
+**1. Understand the real workflow**  
+What actually happens, not just what the process document says should happen.
+
+**2. Define ownership and exceptions**  
+Who acts, where work gets stuck, what happens when something goes wrong.
+
+**3. Design the process**  
+Make the workflow clear before trying to automate it.
+
+**4. Build the practical tool**  
+Use the simplest technology that can reliably support the operation.
+
+**5. Measure the change**  
+Look at time, quality, output, customer experience and accountability.
+
+**6. Improve it again**  
+Real systems reveal new problems once people start using them.
+
+That is the common thread across my operations work, product work, founder-led ventures and technical projects.
 
 ---
 
@@ -170,19 +207,22 @@ Earlier experience includes customer operations, telesales, financial products a
 
 ---
 
-## Technology & tools
+## Capabilities
 
-**Web / systems**  
-HTML · CSS · JavaScript · Google Apps Script · Google Sheets · PHP
+**Operations & management**  
+Service delivery · Team leadership · Workflow design · Performance management · Quality controls · Escalation · Reporting
+
+**Product & venture building**  
+Problem definition · Customer journeys · Pilot execution · Operating models · Field research · Founder-led execution
+
+**Systems & automation**  
+CRM · Google Apps Script · Google Sheets · JavaScript · HTML · CSS · PHP · BI dashboards · Workflow tools
+
+**Data & analytics**  
+Advanced Excel · SQL · SPSS · Stata · R
 
 **Engineering exploration**  
-Discrete transistor logic · Hardware state design · Timing / conditioning concepts · Physical access-control architecture
-
-**Data / analytics**  
-Excel · SQL · SPSS · Stata · R
-
-**Business systems**  
-CRM · ERP · BI dashboards · Jira · workflow tools
+Discrete transistor logic · Hardware state design · Timing and conditioning concepts · Physical access-control architecture
 
 ---
 
@@ -193,16 +233,27 @@ Applied Statistics & Mathematics
 
 ---
 
-## Let's connect
+## Connect with me
 
-**Website:** https://Nandwa254.github.io/  
+**Portfolio:** https://Nandwa254.github.io/  
 **LinkedIn:** https://www.linkedin.com/in/nandwaharryson/  
+**GitHub:** https://github.com/Nandwa254  
 **Email:** hnandwa52@gmail.com
 
 ---
 
-### Public portfolio note
+## A note on what is public
 
-The repositories in this profile are **portfolio / case-study representations**. Production systems remain private where they contain live business workflows, customer information, credentials, proprietary logic or other confidential material.
+I have made a deliberate distinction between **public portfolio material** and **confidential production work**.
 
-[**Explore the full portfolio →**](https://Nandwa254.github.io/)
+Where a project contains live customer information, employer-owned systems, credentials, proprietary implementation logic, internal URLs or other sensitive material, I document the work without publishing those details.
+
+That allows me to show **what I built, the problem I was solving, how I approached it and what changed**, while respecting the confidentiality of the underlying system.
+
+This profile is therefore intended to show more than a list of technologies. It is a record of **how I work, what I have built, the scale I have operated at and the kinds of problems I am interested in solving**.
+
+---
+
+### The main portfolio
+
+**[Nandwa254.github.io →](https://Nandwa254.github.io/)**
