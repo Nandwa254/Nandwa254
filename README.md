@@ -8,7 +8,7 @@ My experience sits across **operations leadership, financial services, product d
 
 I use this GitHub profile as a **curated record of that work**.
 
-It is not a collection of every system I have ever touched. It is the public layer of my professional work: the projects I can show, the case studies I can explain, and the thinking behind how I approach problems.
+I am not using this as a collection of every system I have ever touched. I am using it as the public layer of my professional work: the projects I can show, the case studies I can explain, and the thinking behind how I approach problems.
 
 > **How I work:** understand the real problem, map the workflow, make ownership and exceptions clear, build what is practical, and measure what changes.
 
@@ -49,9 +49,9 @@ I have **not** created a separate public repository for every project.
 
 Some work is best understood by reading the case study rather than inspecting a repository. That is especially true for **HomeLink360 and Settle360**, which are founder-led ventures, and for work I completed inside organizations such as **Bees Credit / Choice Bank**, where the original systems, data and implementation details are not mine to publish.
 
-The hardware security project follows the same principle: I show the engineering thinking and architecture, but not sensitive implementation details.
+I apply the same principle to the hardware security project: I show the engineering thinking and architecture, but I keep the sensitive implementation details private.
 
-So, when you see **Repository**, there is public material you can inspect. When you see **Case study**, I have intentionally documented the work at the level that can be shared professionally.
+So, when you see **Repository**, there is public material you can inspect. When I present work as a **Case study**, I have intentionally documented it at the level I can share professionally.
 
 **That distinction is part of how I have chosen to present my work, not a gap in the portfolio.**
 
@@ -121,7 +121,7 @@ I designed and supported practical systems around the operation, including:
 - a unified branch issue escalation and resolution framework;
 - an Imarika loan-tracking system used by operations and finance.
 
-The wider workflow redesign and automation work contributed to a **70% reduction in process turnaround**.
+My wider workflow redesign and automation work contributed to a **70% reduction in process turnaround**.
 
 [Read the case study →](https://Nandwa254.github.io/projects/bees-operational-systems.html)
 
@@ -135,7 +135,7 @@ This was a personal engineering study into hardware-based authentication and phy
 
 I broke the concept into discrete functions covering **timing, state, validation, lockout, alerting and actuation**, exploring what could be achieved through hardware logic rather than beginning with conventional software.
 
-The public case study shows the architecture and engineering thinking. The original implementation details are intentionally not published.
+I use the public case study to show the architecture and engineering thinking. I intentionally keep the original implementation details private.
 
 [Read the case study →](https://Nandwa254.github.io/projects/hardware-security.html) · [GitHub case study →](projects/hardware-security-system.md)
 
@@ -250,7 +250,7 @@ Where a project contains live customer information, employer-owned systems, cred
 
 That allows me to show **what I built, the problem I was solving, how I approached it and what changed**, while respecting the confidentiality of the underlying system.
 
-This profile is therefore intended to show more than a list of technologies. It is a record of **how I work, what I have built, the scale I have operated at and the kinds of problems I am interested in solving**.
+I intend this profile to show more than a list of technologies. I use it to show **how I work, what I have built, the scale I have operated at and the kinds of problems I am interested in solving**.
 
 ---
 
