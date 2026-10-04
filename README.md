@@ -17,14 +17,18 @@ This repository documents selected work I have built, contributed to and learned
 
 I am building HomeLink360 around housing and financial services for income-earning renters. The work includes customer journeys, product workflows, operations and early-stage testing.
 
-[HomeLink360 case study](https://Nandwa254.github.io/projects/homelink360.html)
+**Website:** [homelink360.co.ke](https://homelink360.co.ke/) · **Stack:** WordPress · Astra · Elementor · WPForms · WP Mail SMTP · Rank Math SEO · Popup Maker
+
+[HomeLink360 case study](https://Nandwa254.github.io/projects/homelink360.html) · [Website project notes](projects/homelink360-website.md)
 
 ### Settle360
 **Founder & Operations Lead**
 
 I am building Settle360 as a business support and outsourcing venture, focused on field execution, team deployment, verification, reporting, reconciliation and operating controls.
 
-[Settle360 case study](https://Nandwa254.github.io/projects/settle360.html)
+**Website:** [settle360.co.ke](https://settle360.co.ke/) · **Stack:** WordPress · Astra · Elementor · WPForms · WP Mail SMTP · Rank Math SEO · Popup Maker
+
+[Settle360 case study](https://Nandwa254.github.io/projects/settle360.html) · [Website project notes](projects/settle360-website.md)
 
 ---
 
