@@ -4,7 +4,7 @@
 
 While working across operations and product responsibilities at **Bees Credit / Choice Bank**, I designed several internal systems to solve practical operating problems.
 
-These were not side projects. I built them around work the teams were doing every day.
+I did not build these as side projects. I built them around work the teams were doing every day.
 
 Three examples are especially important to me:
 
@@ -18,7 +18,7 @@ The problem was not simply that loans were taking too long. I needed to see exac
 
 I designed an Excel-based calculation system that captured the time a loan file spent at each process stage and with each person it passed through.
 
-The objective was to compare actual time against expected time and make delays visible.
+I used the system to compare actual time against expected time and make delays visible.
 
 We were working toward disbursement targets of:
 
@@ -27,7 +27,7 @@ We were working toward disbursement targets of:
 
 measured from loan origination to disbursement.
 
-This helped move the discussion from a general complaint about slow processing to a more useful question:
+I used the results to move the discussion from a general complaint about slow processing to a more useful question:
 
 > **Which stage or handoff is actually consuming the time?**
 
@@ -67,7 +67,7 @@ I wanted better visibility around the movement and monitoring of loans rather th
 
 I designed the system around the actual operating workflow and the information teams needed to move and monitor loans.
 
-This work sat alongside my product responsibilities. I personally helped map **400+ businesses across three counties**, using field observations and customer feedback to shape customer journeys, operating priorities and supporting systems.
+I did this alongside my product responsibilities. I personally helped map **400+ businesses across three counties**, using field observations and customer feedback to shape customer journeys, operating priorities and supporting systems.
 
 ## How I approached all three
 
@@ -77,7 +77,7 @@ The common pattern was:
 
 I learned that a useful operational system does not start with a screen or a spreadsheet.
 
-It starts with understanding how the work actually happens.
+For me, it starts with understanding how the work actually happens.
 
 ## My role
 
@@ -85,7 +85,7 @@ I was responsible for connecting the operating problem to the solution.
 
 That meant understanding the process, working through the logic, designing the workflow and system structure, and working with the teams that had to use it.
 
-The projects also required coordination across operations, finance, credit, compliance, collections and technology.
+I also coordinated across operations, finance, credit, compliance, collections and technology.
 
 ## What I learned
 
@@ -99,7 +99,7 @@ I have seen that automating a bad process only makes the bad process faster. I n
 
 ### Systems are part of operations
 
-I believe a system is useful when it helps people make better decisions and complete work more reliably. It should not exist simply because technology is available.
+I believe a system is useful when it helps people make better decisions and complete work more reliably. I do not believe a system should exist simply because technology is available.
 
 ## Confidentiality boundary
 
