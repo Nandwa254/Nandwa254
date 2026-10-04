@@ -4,17 +4,17 @@
 
 While working across operations and product responsibilities at **Bees Credit / Choice Bank**, I designed several internal systems to solve practical operating problems.
 
-These were not side projects. They were built around work the teams were doing every day.
+These were not side projects. I built them around work the teams were doing every day.
 
 Three examples are especially important to me:
 
-1. **Loan Process Time & Turnaround Calculator** — an Excel-based system for measuring time spent at each loan process stage and with each person handling the file.
-2. **Branch Issue Escalation & Resolution System** — an Apps Script-based system built around a unified escalation matrix and resolution framework for branch operational issues.
-3. **Imarika Loan Tracking System** — a custom tracking platform used by operations and finance to follow loans through the MSME product workflow.
+1. **Loan Process Time & Turnaround Calculator** — an Excel-based system I designed to measure time spent at each loan process stage and with each person handling the file.
+2. **Branch Issue Escalation & Resolution System** — an Apps Script-based system I built around a unified escalation matrix and resolution framework for branch operational issues.
+3. **Imarika Loan Tracking System** — a custom tracking platform I built for operations and finance to follow loans through the MSME product workflow.
 
 ## 1. Loan Process Time & Turnaround Calculator
 
-The problem was not simply that loans were taking too long. It was difficult to see exactly where the time was being spent.
+The problem was not simply that loans were taking too long. I needed to see exactly where the time was being spent.
 
 I designed an Excel-based calculation system that captured the time a loan file spent at each process stage and with each person it passed through.
 
@@ -48,24 +48,24 @@ I designed:
 - the resolution workflow;
 - and the supporting Apps Script-based system.
 
-The objective was to bring different branches and different types of operational issues into one consistent process.
+My objective was to bring different branches and different types of operational issues into one consistent process.
 
-A branch should be able to answer four basic questions:
+I wanted a branch to be able to answer four basic questions:
 
 **Where do I raise this?**  
 **Who owns it?**  
 **What happens next?**  
 **When does it need to be escalated?**
 
-The public portfolio does not reproduce the original system or its internal logic.
+I am not reproducing the original system or its internal logic publicly.
 
 ## 3. Imarika Loan Tracking System
 
 While helping build the **Imarika MSME lending product**, I designed a custom loan-tracking system that was used by operations and finance.
 
-The goal was to create better visibility around the movement and monitoring of loans, rather than keeping information fragmented across teams.
+I wanted better visibility around the movement and monitoring of loans rather than keeping information fragmented across teams.
 
-The system was designed around the actual operating workflow and the information teams needed to move and monitor loans.
+I designed the system around the actual operating workflow and the information teams needed to move and monitor loans.
 
 This work sat alongside my product responsibilities. I personally helped map **400+ businesses across three counties**, using field observations and customer feedback to shape customer journeys, operating priorities and supporting systems.
 
@@ -91,15 +91,15 @@ The projects also required coordination across operations, finance, credit, comp
 
 ### Visibility changes behaviour
 
-When time, ownership and exceptions become measurable, operational conversations become much more specific.
+When I make time, ownership and exceptions measurable, operational conversations become much more specific.
 
 ### Automation should follow process understanding
 
-Automating a bad process only makes the bad process faster. The workflow has to be understood first.
+I have seen that automating a bad process only makes the bad process faster. I need to understand the workflow first.
 
 ### Systems are part of operations
 
-A system is useful when it helps people make better decisions and complete work more reliably. It should not exist simply because technology is available.
+I believe a system is useful when it helps people make better decisions and complete work more reliably. It should not exist simply because technology is available.
 
 ## Confidentiality boundary
 
@@ -115,7 +115,7 @@ I have therefore intentionally **not published**:
 - employer-specific security logic;
 - proprietary implementation details.
 
-The public portfolio describes my contribution and the operating problems I solved. It does not reproduce former employer systems.
+I use the public portfolio to describe my contribution and the operating problems I solved. I do not reproduce former employer systems.
 
 ## Related work
 
