@@ -6,7 +6,7 @@ I work across operations, financial services, product development and technology
 
 Over 9+ years, I have worked in customer operations, collections, lending, product development and business building. A lot of my work starts with a practical operating problem: understanding what is happening, finding where the process breaks down, and improving it through people, process, data or technology.
 
-This is where I keep some of the work I have built, worked on and learned from.
+This repository documents selected work I have built, contributed to and learned from.
 
 ---
 
@@ -120,7 +120,7 @@ Earlier experience includes customer operations, telesales, financial products a
 
 ---
 
-## Tools
+## Tools & Technologies Used
 
 **Systems & development**  
 HTML · CSS · JavaScript · Google Apps Script · Google Sheets · PHP · CRM · ERP · BI dashboards
