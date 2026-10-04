@@ -14,8 +14,6 @@ The result was a large transistor-level design that I could study and refine as 
 
 ## What I was trying to learn
 
-This was less about producing a finished commercial lock and more about understanding the engineering underneath one.
-
 I wanted to understand:
 
 - how a physical input can be conditioned before it is evaluated;
@@ -29,13 +27,13 @@ I wanted to understand:
 
 ## Architecture
 
-The public architecture is intentionally simplified. The original design contains considerably more component-level detail.
+I have intentionally simplified the public architecture. My original design contains considerably more component-level detail.
 
 ![Conceptual architecture](assets/security-architecture.svg)
 
 **Physical input → timing and conditioning → discrete logic → validation → controlled response**
 
-The response side is separated into three important functions:
+I separated the response side into three important functions:
 
 **Lockout and reset** for failure handling and recovery.
 
@@ -43,7 +41,7 @@ The response side is separated into three important functions:
 
 **Actuation** for the final physical output.
 
-This block-level view is the most useful way to understand the project without exposing the exact implementation.
+I use this block-level view because it lets me explain the engineering without exposing the exact implementation.
 
 ## How I approached the design
 
@@ -59,7 +57,7 @@ A validation problem became a logic path.
 
 A lockout problem became a separate physical state.
 
-This approach was useful because it forced me to understand what each part of the system was actually doing rather than relying on software to abstract it away.
+This forced me to understand what each part of the system was actually doing rather than relying on software to abstract it away.
 
 I also explored how different input behaviours, including longer presses, could be handled before the main validation path.
 
@@ -67,9 +65,9 @@ I also explored how different input behaviours, including longer presses, could 
 
 The biggest challenge was complexity.
 
-As more states and conditions were added, the number of components and interconnections grew quickly. That created a useful engineering lesson: removing software does not remove complexity. It moves the complexity into the physical architecture.
+As I added more states and conditions, the number of components and interconnections grew quickly. That gave me a useful engineering lesson: removing software does not remove complexity. It moves the complexity into the physical architecture.
 
-I therefore started thinking about how the same logic could be represented more efficiently while keeping the security control philosophy intact.
+I therefore started thinking about how I could represent the same logic more efficiently while keeping the security control philosophy intact.
 
 That led me to explore a later architectural direction where dedicated logic and memory devices could take over repetitive data-handling work, while discrete circuitry remained responsible for the physical control and response functions.
 
@@ -77,19 +75,19 @@ That led me to explore a later architectural direction where dedicated logic and
 
 ### 1. Decomposition matters
 
-A complicated security system becomes much easier to reason about when every function has a clearly defined role.
+I found that a complicated security system becomes much easier to reason about when every function has a clearly defined role.
 
 ### 2. Hardware has state too
 
-It is easy to think of “state” as something that belongs to software. Building it physically made me think much more carefully about what creates, holds, clears and changes state.
+Building state physically made me think much more carefully about what creates, holds, clears and changes state.
 
 ### 3. Security is also an operating problem
 
-Authentication is only one part of the system. You also need to think about invalid input, lockout, recovery, alerting, power behaviour and the physical output.
+Authentication is only one part of the system. I also had to think about invalid input, lockout, recovery, alerting, power behaviour and the physical output.
 
 ### 4. Simplicity at one layer can create complexity at another
 
-A software-free design can remove one class of dependency while making the physical design considerably larger and harder to maintain. That trade-off became an important part of the study.
+A software-free design can remove one class of dependency while making the physical design considerably larger and harder to maintain. That trade-off became an important part of my study.
 
 ## My role
 
@@ -97,13 +95,13 @@ I designed the architecture and developed the logic as a personal engineering st
 
 I worked through the design at component level, breaking the overall system into smaller functions and studying how those functions interacted.
 
-The project reflects the way I approach problems in my other work as well: understand the system from the ground up, separate the problem into manageable parts, and then find a practical way to connect those parts into something that works.
+The project reflects the way I approach problems in my other work as well: I try to understand the system from the ground up, separate the problem into manageable parts, and then find a practical way to connect those parts into something that works.
 
 ## Public disclosure boundary
 
-The original schematic is **not included in this public repository**.
+I have intentionally not included the original schematic in this public repository.
 
-I have intentionally withheld:
+I have withheld:
 
 - exact component-level authentication logic;
 - the complete wiring topology;
@@ -112,15 +110,15 @@ I have intentionally withheld:
 - implementation-specific security paths;
 - and other details that could make the design easier to reproduce, probe or bypass.
 
-The public version is meant to demonstrate my engineering thinking and the architecture of the study, not to publish the complete security design.
+I am using the public version to demonstrate my engineering thinking and the architecture of the study, not to publish the complete security design.
 
 ## Status
 
 **Design study / prototype architecture**
 
-This project should be read as an engineering exploration rather than a claim that the resulting system is production-certified, tamper-proof or suitable for security-critical deployment without further validation.
+I regard this as an engineering exploration rather than a claim that the resulting system is production-certified, tamper-proof or suitable for security-critical deployment without further validation.
 
-## Why it belongs in my portfolio
+## Why I include it in my portfolio
 
 Most of my professional work has involved people, processes, financial services, data and software-enabled systems.
 
