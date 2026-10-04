@@ -4,13 +4,13 @@
 
 I designed this as a hands-on engineering study to understand how an authentication and physical access-control system could be broken down into hardware functions without starting from a conventional software controller.
 
-The main question I wanted to explore was simple:
+I started with a simple question:
 
 > **What happens when I treat each security function as a physical logic problem?**
 
 Instead of beginning with firmware, I started with individual components and built the logic around them. That forced me to think carefully about timing, state, validation, failure handling and physical outputs.
 
-The result was a large transistor-level design that I could study and refine as a collection of smaller functional blocks.
+I ended up with a large transistor-level design that I could study and refine as a collection of smaller functional blocks.
 
 ## What I was trying to learn
 
@@ -49,15 +49,15 @@ I deliberately started with discrete components rather than hiding the logic beh
 
 That made every function visible.
 
-A timing problem became a timing circuit.
+I turned a timing problem into a timing circuit.
 
-A state problem became a state circuit.
+I turned a state problem into a state circuit.
 
-A validation problem became a logic path.
+I turned a validation problem into a logic path.
 
-A lockout problem became a separate physical state.
+I treated a lockout problem as a separate physical state.
 
-This forced me to understand what each part of the system was actually doing rather than relying on software to abstract it away.
+That forced me to understand what each part of the system was actually doing rather than relying on software to abstract it away.
 
 I also explored how different input behaviours, including longer presses, could be handled before the main validation path.
 
@@ -65,7 +65,7 @@ I also explored how different input behaviours, including longer presses, could 
 
 The biggest challenge was complexity.
 
-As I added more states and conditions, the number of components and interconnections grew quickly. That gave me a useful engineering lesson: removing software does not remove complexity. It moves the complexity into the physical architecture.
+As I added more states and conditions, the number of components and interconnections grew quickly. That gave me a useful engineering lesson: removing software does not remove complexity. I found that it moves the complexity into the physical architecture.
 
 I therefore started thinking about how I could represent the same logic more efficiently while keeping the security control philosophy intact.
 
@@ -95,7 +95,7 @@ I designed the architecture and developed the logic as a personal engineering st
 
 I worked through the design at component level, breaking the overall system into smaller functions and studying how those functions interacted.
 
-The project reflects the way I approach problems in my other work as well: I try to understand the system from the ground up, separate the problem into manageable parts, and then find a practical way to connect those parts into something that works.
+I approach this the same way I approach problems in my other work: I try to understand the system from the ground up, separate the problem into manageable parts, and then find a practical way to connect those parts into something that works.
 
 ## Public disclosure boundary
 
@@ -122,7 +122,7 @@ I regard this as an engineering exploration rather than a claim that the resulti
 
 Most of my professional work has involved people, processes, financial services, data and software-enabled systems.
 
-This project shows another side of the same mindset.
+I include this project because it shows another side of the same mindset.
 
 I wanted to understand a system at the lowest practical level, assign clear responsibilities to each part, and see how far I could take the design using physical logic.
 
