@@ -10,6 +10,31 @@ Over 9+ years, I have led high-volume customer and collections operations, suppo
 
 ---
 
+## Portfolio directory
+
+Everything below is connected to my public portfolio. The **Repository** column points to GitHub, while the **Case study** column points to the portfolio explanation where one exists.
+
+| Project | Repository | Case study |
+| --- | --- | --- |
+| **Personal portfolio** | [nandwa254.github.io](https://github.com/Nandwa254/nandwa254.github.io) | [Portfolio](https://Nandwa254.github.io/) |
+| **Operations CRM & Workflow Platform** | [Repository](https://github.com/Nandwa254/operations-crm-case-study) | [Case study](https://Nandwa254.github.io/projects/operations-crm.html) |
+| **Client Portal Application** | [Repository](https://github.com/Nandwa254/client-portal-app-case-study) | [Case study](https://Nandwa254.github.io/projects/client-portal.html) |
+| **Company Website Delivery** | [Repository](https://github.com/Nandwa254/company-website-case-study) | [Case study](https://Nandwa254.github.io/projects/company-website.html) |
+| **HomeLink360** | — | [Case study](https://Nandwa254.github.io/projects/homelink360.html) |
+| **Settle360** | — | [Case study](https://Nandwa254.github.io/projects/settle360.html) |
+| **Imarika MSME Lending Product** | — | [Case study](https://Nandwa254.github.io/projects/imarika.html) |
+| **Venture Fundraising & Readiness** | — | [Case study](https://Nandwa254.github.io/projects/fundraising.html) |
+| **Hardware-Based Security System** | [Profile repository](https://github.com/Nandwa254/Nandwa254/tree/main/projects) | [Case study](https://Nandwa254.github.io/projects/hardware-security.html) |
+| **Bees Credit / Choice Bank — Operational Systems & Automation** | [Profile repository](https://github.com/Nandwa254/Nandwa254/tree/main/projects) | [Case study](https://Nandwa254.github.io/projects/bees-operational-systems.html) |
+
+### Repository vs. case study
+
+Not every project needs its own public repository.
+
+The three dedicated project repositories contain public case-study material. HomeLink360 and Settle360 are represented through the main portfolio because they are founder-led ventures. The Bees Credit / Choice Bank systems and the hardware security project are documented as sanitized case studies because their underlying implementation details are not appropriate for public release.
+
+---
+
 ## What I work on
 
 | Area | Focus |
@@ -23,6 +48,8 @@ Over 9+ years, I have led high-volume customer and collections operations, suppo
 ---
 
 ## Selected evidence
+
+The figures below come from documented professional experience and are presented as evidence, not forecasts.
 
 - **70%** reported reduction in process turnaround after workflow redesign and automation.
 - **KES 800M** collections portfolio exposure in a credit operations leadership role.
