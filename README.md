@@ -123,7 +123,7 @@ That approach has carried across my operations roles, product work, ventures and
 2026 — Present
 
 **Founder & Operations Lead — Settle360**  
-2026 — Present
+2025 — Present
 
 **Founder — HomeLink360**  
 2025 — Present
