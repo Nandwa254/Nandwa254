@@ -131,7 +131,10 @@ Earlier experience includes customer operations, telesales, financial products a
 ## Tools & Technologies Used
 
 **Systems & development**  
-HTML · CSS · JavaScript · Google Apps Script · Google Sheets · PHP · CRM · ERP · BI dashboards
+HTML · CSS · JavaScript · Google Apps Script · Google Sheets · PHP · CRM · ERP · BI dashboards  
+
+**Website delivery**  
+WordPress · Astra · Elementor · WPForms · WP Mail SMTP · Rank Math SEO · Popup Maker · Google Search Console
 
 **Data & analytics**  
 Excel · SQL · SPSS · Stata · R
