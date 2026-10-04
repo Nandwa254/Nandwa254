@@ -82,6 +82,11 @@ Founder-led preparation for HomeLink360 covering venture narrative, operating pl
 
 [Case study →](https://Nandwa254.github.io/projects/fundraising.html)
 
+### Hardware-Based Security System
+A personal engineering study in which I broke an authentication and physical access-control concept into discrete hardware functions, exploring timing, state, validation, lockout, alerting and actuation without starting from conventional software.
+
+[Case study →](projects/hardware-security-system.md)
+
 ---
 
 ## How I think about systems
@@ -137,6 +142,9 @@ Earlier experience includes customer operations, telesales, financial products a
 
 **Web / systems**  
 HTML · CSS · JavaScript · Google Apps Script · Google Sheets · PHP
+
+**Engineering exploration**  
+Discrete transistor logic · Hardware state design · Timing / conditioning concepts · Physical access-control architecture
 
 **Data / analytics**  
 Excel · SQL · SPSS · Stata · R
