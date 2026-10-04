@@ -87,6 +87,11 @@ A personal engineering study in which I broke an authentication and physical acc
 
 [Portfolio case study →](https://Nandwa254.github.io/projects/hardware-security.html) · [GitHub case study →](projects/hardware-security-system.md)
 
+### Operational Systems & Automation — Bees Credit / Choice Bank
+Internal systems I designed while working across operations and product responsibilities, including loan-stage time measurement, a unified branch issue escalation and resolution system, and an Imarika loan-tracking platform used by operations and finance.
+
+[Portfolio case study →](https://Nandwa254.github.io/projects/bees-operational-systems.html) · [GitHub case study →](projects/bees-operational-systems.md)
+
 ---
 
 ## How I think about systems
