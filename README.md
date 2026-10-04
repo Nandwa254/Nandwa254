@@ -48,6 +48,14 @@ I designed and built this website around the business proposition, information s
 
 [Repository](https://github.com/Nandwa254/company-website-case-study) · [Case study](https://Nandwa254.github.io/projects/company-website.html)
 
+### Jessica Mandela — Artist Website
+
+A client website built for gospel artist Jessica Mandela to bring music, podcasts, videos, biography, gallery content and booking enquiries into one place.
+
+**Client work · WordPress · Responsive web**
+
+[Live website](https://jessicamandela.com/) · [Case study](https://Nandwa254.github.io/projects/jessica-mandela.html) · [Project notes](projects/jessica-mandela-website.md)
+
 ### Imarika MSME Lending Product
 
 At Choice Bank / Bees Credit Kenya, I worked on the design and pilot development of Imarika. I combined field research, lending operations, customer journeys and supporting systems.
