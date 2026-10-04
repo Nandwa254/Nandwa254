@@ -74,7 +74,7 @@ I explored timing, state, validation, lockout, alerting and actuation using disc
 
 ---
 
-## A few results from my work
+## Selected results
 
 - **70%** reduction in process turnaround after workflow redesign and automation.
 - **KES 800M** portfolio exposure in a collections leadership role.
