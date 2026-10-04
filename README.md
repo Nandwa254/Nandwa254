@@ -12,6 +12,15 @@ This repository documents selected work I have built, contributed to and learned
 
 ## What I'm working on
 
+### Kajiado County Revenue Compliance & Field Operations
+**Project Operations Lead — County Government of Kajiado | Independent contractor through Settle360**
+
+I manage end-to-end delivery of a county revenue compliance assignment, visiting and verifying **11,000+ businesses** while coordinating field operations, personnel deployment, targets, reporting and client requirements.
+
+So far, the assignment has generated **KSh 30M+ in invoices** and **KSh 14M+ in actual cash collected**.
+
+[Kajiado County project notes](projects/kajiado-revenue-operations.md) · [Case study](https://Nandwa254.github.io/projects/kajiado-revenue-operations.html)
+
 ### HomeLink360
 **Founder · Product & Operations**
 
@@ -88,10 +97,13 @@ I explored timing, state, validation, lockout, alerting and actuation using disc
 
 ## Selected results
 
+- **11,000+** businesses visited and verified in a county revenue compliance assignment.
+- **KSh 30M+** in invoices raised through that assignment.
+- **KSh 14M+** in actual cash collected through that assignment.
 - **70%** reduction in process turnaround after workflow redesign and automation.
 - **KES 800M** portfolio exposure in a collections leadership role.
 - **150+** distributed agents led during a service-continuity period.
-- **400+** businesses mapped during MSME lending product development.
+- **400+** businesses mapped during MSME product development.
 
 ---
 
@@ -107,10 +119,10 @@ That approach has carried across my operations roles, product work, ventures and
 
 ## Experience
 
-**Founder & Operations Lead — Settle360**  
+**Project Operations Lead — County Government of Kajiado | Independent contractor through Settle360**  
 2026 — Present
 
-**Revenue Project Lead — Government of Kenya, Kajiado County**  
+**Founder & Operations Lead — Settle360**  
 2026 — Present
 
 **Founder — HomeLink360**  
