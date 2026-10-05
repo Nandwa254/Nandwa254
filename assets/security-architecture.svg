@@ -9,7 +9,7 @@
     <text x="195" y="274" text-anchor="middle" font-size="15" fill="#667585">Physical logic interface</text>
 
     <rect x="385" y="175" rx="18" ry="18" width="250" height="120" fill="#fff" stroke="#12243a" stroke-width="3"/>
-    <text x="510" y="216" text-anchor="middle" font-size="22" font-weight="700" fill="#12243a">Timing & Conditioning</text>
+    <text x="510" y="216" text-anchor="middle" font-size="22" font-weight="700" fill="#12243a">Timing &amp; Conditioning</text>
     <text x="510" y="249" text-anchor="middle" font-size="16" fill="#46576a">Input stabilization</text>
     <text x="510" y="274" text-anchor="middle" font-size="15" fill="#667585">Short / long press behavior</text>
 
@@ -24,7 +24,7 @@
     <text x="1140" y="274" text-anchor="middle" font-size="15" fill="#667585">Controlled decision path</text>
 
     <rect x="225" y="430" rx="18" ry="18" width="270" height="130" fill="#fff" stroke="#12243a" stroke-width="3"/>
-    <text x="360" y="472" text-anchor="middle" font-size="22" font-weight="700" fill="#12243a">Lockout & Reset</text>
+    <text x="360" y="472" text-anchor="middle" font-size="22" font-weight="700" fill="#12243a">Lockout &amp; Reset</text>
     <text x="360" y="505" text-anchor="middle" font-size="16" fill="#46576a">Failure handling and recovery</text>
     <text x="360" y="530" text-anchor="middle" font-size="15" fill="#667585">Dedicated state path</text>
 
