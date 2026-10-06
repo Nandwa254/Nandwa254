@@ -25,7 +25,7 @@ The site also uses a real-estate/listing platform layer for the property-related
 
 ## Status
 
-**Live venture website**
+**2025 — Present · Live venture website**
 
 [Open Settle360](https://settle360.co.ke/)
 
