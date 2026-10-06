@@ -31,7 +31,7 @@ I am building HomeLink360 around housing and financial services for income-earni
 [HomeLink360 case study](https://Nandwa254.github.io/projects/homelink360.html) · [Website project notes](projects/homelink360-website.md)
 
 ### Settle360
-**Founder & Operations Lead**
+**Founder & Operations Lead · 2025 — Present**
 
 I am building Settle360 as a business support and outsourcing venture, focused on field execution, team deployment, verification, reporting, reconciliation and operating controls.
 
