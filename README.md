@@ -13,11 +13,13 @@ This repository documents selected work I have built, contributed to and learned
 ## What I'm working on
 
 ### Kajiado County Revenue Compliance & Field Operations
-**Project Operations Lead — County Government of Kajiado | Independent contractor through Settle360**
+**Project Operations Lead — County Government of Kajiado | Independent contractor through Settle360 · 2026–Present**
 
-I manage end-to-end delivery of a county revenue compliance assignment, visiting and verifying **11,000+ businesses** while coordinating field operations, personnel deployment, targets, reporting and client requirements.
+Lead field operations for a county revenue-compliance assignment, reporting directly to the Director General for Revenue and coordinating delivery with Debt Collection, Corporates and Single Business Permit (SBP) functions. The work also involves coordination with sub-county directors, county administrators, county billers and county security leadership.
 
-So far, the assignment has generated **KSh 30M+ in invoices** and **KSh 14M+ in actual cash collected**.
+My responsibilities span field-team deployment and supervision, business verification, permit and licence application/renewal follow-up, data quality, reconciliation, performance reporting and operational issue escalation. I also liaise with county officials and legal counsel on project mandates, stakeholder responsibilities and applicable regulatory requirements, referring legal matters for appropriate guidance.
+
+The assignment has covered **11,000+ businesses visited and verified**, with **KSh 30M+ in invoices raised** and **KSh 14M+ in actual cash collected**. These are assignment-level results.
 
 [Kajiado County project notes](projects/kajiado-revenue-operations.md) · [Case study](https://Nandwa254.github.io/projects/kajiado-revenue-operations.html)
 
