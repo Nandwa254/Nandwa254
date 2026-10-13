@@ -1,54 +1,53 @@
 # Kajiado County Revenue Compliance & Field Operations
 
 **Role:** Project Operations Lead — County Government of Kajiado  
-**Engagement:** Independent contractor / Settle360  
-**Status:** 2026 — Present
+**Engagement:** Independent contractor through Settle360  
+**Period:** 2026 — Present
 
-I manage end-to-end delivery of a county revenue compliance assignment, coordinating field operations, personnel deployment, targets, reporting and client requirements.
+I lead field operations for a county revenue-compliance assignment, connecting county priorities with field execution, business verification, permit-related follow-up, quality checks, reconciliation and performance reporting.
 
-## What the work involves
+## Government and stakeholder coordination
 
-The assignment combines field execution with verification, data capture, customer engagement, reporting and operational controls.
+I report directly to the Director General for Revenue and coordinate operational delivery with Debt Collection, Corporates and Single Business Permit (SBP) functions. Field coordination also involves sub-county directors, county administrators, county billers and county security leadership.
 
-A major part of the work has been visiting businesses in the field, verifying records and following up on revenue compliance.
+The role requires consistent communication between county stakeholders and frontline teams, resolution of field obstacles, escalation of issues and follow-through on agreed operational priorities.
 
-## Scale and results
+## Regulatory compliance and permit processes
+
+I coordinate business engagement and verification relating to business permit and licence applications and renewals, including follow-up with relevant county functions. I liaise with county officials and legal counsel on the assignment mandate, stakeholder responsibilities and regulatory requirements, escalating legal questions for appropriate guidance.
+
+My work supports compliance-focused field execution through verification, back-checks, data validation, exception management and reconciliation. It does not replace the statutory responsibilities of county officials or the advice of legal counsel.
+
+## Field operations and controls
+
+My responsibilities include:
+
+- coordinating field plans, personnel deployment and daily execution;
+- supervising a 13-person field team;
+- supporting business engagement, verification and permit-related follow-up;
+- maintaining data capture, back-checks and submission validation;
+- monitoring targets, resolving operational issues and escalating exceptions;
+- coordinating reconciliation and performance reporting;
+- maintaining communication between the client, county functions and field teams.
+
+## Scale and assignment results
 
 - **11,000+ businesses visited and verified**
 - **KSh 30M+ in invoices raised**
 - **KSh 14M+ in actual cash collected**
 
-These figures reflect the delivery and collection results from the assignment.
+These figures describe the results recorded across the assignment, rather than personal cash-handling totals.
 
-## My role
+## What the assignment demonstrates
 
-I manage the operating cycle from planning through field execution and reporting. This includes:
+The work combines government stakeholder coordination, regulatory-compliance support, large-scale field delivery, team leadership and operational control. It requires translating county priorities into field plans, keeping verification and reporting traceable, and escalating issues to the appropriate decision-makers.
 
-- coordinating field teams and personnel deployment;
-- setting and following up on targets;
-- recruiting, onboarding and supervising field teams;
-- establishing verification and back-check routines;
-- coordinating data capture and reporting;
-- monitoring performance and resolving operational issues;
-- reconciling field activity and collection results;
-- and serving as the operational link between the client and field teams.
+The assignment has also included planning for potential expansion into county buildings and physical-planning activities; these are described as planned scope, not completed delivery.
 
-## How I approach the work
+## Status and confidentiality
 
-The scale of the assignment requires simple controls that hold up in the field.
+**Active engagement · 2026 — Present**
 
-I focus on clear team structures, practical verification, visible targets, timely reporting and quick escalation of exceptions. The goal is to keep field activity connected to measurable delivery.
-
-## Why this work matters to my wider profile
-
-This is a good example of the kind of operating work I enjoy: taking a broad requirement, turning it into a workable field model, managing people and execution, and using data and controls to keep delivery on track.
-
-It also strengthens the connection between my operations experience and the systems I build. The same questions come up repeatedly: where is the work, who owns it, what has been verified, what remains outstanding, and what does the result look like?
-
-## Status
-
-**Active engagement**
-
-This project is ongoing. Client-specific records, business-level data and confidential reporting are not published here.
+Client-specific records, individual business information and confidential operational reports are not published here.
 
 [Back to my GitHub profile](https://github.com/Nandwa254/Nandwa254)
