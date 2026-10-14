@@ -2,7 +2,7 @@
 
 During my work across operations and product at **Bees Credit / Choice Bank**, I built and supported several internal systems around practical operating problems.
 
-Three examples stand out.
+Four examples stand out.
 
 ## Loan Process Time & Turnaround Calculator
 
@@ -26,6 +26,10 @@ I designed a common framework for classifying issues, assigning ownership, setti
 I then built the supporting Apps Script-based system around that workflow.
 
 The main goal was simple: a branch should know where to raise an issue, who owns it, what happens next and when it needs to be escalated.
+
+## Imarika Credit Scoring Methodology & System
+
+For **Imarika unsecured MSME lending**, I designed and implemented the credit-scoring methodology and supporting system. The work established a structured, repeatable approach to assessing applications and supporting credit decisions. Detailed scoring rules and internal implementation are not published because the system formed part of a live lending operation.
 
 ## Imarika Loan Tracking System
 
