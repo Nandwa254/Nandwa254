@@ -73,15 +73,13 @@ A client website built for gospel artist Jessica Mandela to bring music, podcast
 
 ### Imarika MSME Lending Product
 
-At Choice Bank / Bees Credit Kenya, I worked on the design and pilot development of Imarika. I combined field research, lending operations, customer journeys and supporting systems.
-
-I mapped **400+ businesses across three counties** as part of the work.
+At Choice Bank / Bees Credit Kenya, I worked on design and pilot development of Imarika unsecured MSME lending. I mapped **400+ businesses across three counties** and designed and implemented the product's credit-scoring methodology and supporting system, alongside customer journeys, lending operations and loan tracking.
 
 [Imarika case study](https://Nandwa254.github.io/projects/imarika.html)
 
 ### Operational Systems & Automation
 
-While working across operations and product at Bees Credit / Choice Bank, I built and supported systems for loan-process time measurement, branch issue escalation and resolution, and Imarika loan tracking.
+While working across operations and product at Bees Credit / Choice Bank, I designed and supported systems for loan-process time measurement, branch issue escalation and resolution, and Imarika's unsecured-lending credit scoring and loan tracking.
 
 The wider workflow redesign and automation work resulted in a **70% reduction in process turnaround time**.
 
