@@ -67,7 +67,7 @@ Led product design and pilot execution for an unsecured MSME lending solution. M
 
 **Operations Manager · Bees Credit Kenya · May 2024 – June 2025**
 
-Alongside the separate Imarika product appointment, I managed day-to-day operations, service delivery, process controls, reporting and cross-functional coordination. I contributed to workflow redesign and automation associated with a **70% reduction in process turnaround time**.
+Alongside the separate Imarika product appointment, I managed day-to-day operations, service delivery, process controls, reporting and cross-functional coordination. I contributed to workflow redesign and automation associated with a **70% reduction in process turnaround time in selected workflows**.
 
 Related systems included loan-stage time measurement, a branch issue escalation and resolution workflow, and supporting systems for Imarika credit scoring and loan tracking.
 
@@ -122,7 +122,7 @@ Client website bringing music, podcasts, videos, biography, gallery content and 
 - **11,000+** businesses visited and verified through the Kajiado County assignment.
 - **KSh 30M+** in invoices raised and **KSh 14M+** in actual cash collected through that assignment.
 - **400+** businesses mapped during Imarika MSME product development across three counties.
-- **70%** reduction in process turnaround through workflow redesign and automation at Bees Credit.
+- **70%** reduction in process turnaround in selected workflows following workflow redesign and automation at Bees Credit.
 - **KSh 800M** portfolio managed in a collections leadership role, with a **25% improvement in recovery efficiency**.
 - **2×** contact-centre handling capacity and **35% lower resolution time** following operational transformation at Mogo Finance.
 - **150+** distributed collection agents led during the Grola Tech operations scale-up.
