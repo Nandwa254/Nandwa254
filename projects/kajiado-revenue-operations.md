@@ -1,34 +1,33 @@
 # Kajiado County Revenue Compliance & Field Operations
 
-**Role:** Project Operations Lead — County Government of Kajiado  
-**Engagement:** Independent contractor through Settle360  
-**Period:** 2026 — Present
+**Role:** Technical Director – Operations & Delivery  
+**Engagement shown on LinkedIn:** Sary Network International Ltd | Settle360  
+**Period:** April 2026 – Present  
+**Location:** Kajiado County, Kenya
 
-I lead field operations for a county revenue-compliance assignment, connecting county priorities with field execution, business verification, permit-related follow-up, quality checks, reconciliation and performance reporting.
+As Technical Director, I am accountable for operational execution, delivery control and performance across a county revenue-compliance assignment.
+
+## Operational leadership
+
+I direct day-to-day field execution, translating county revenue priorities into operating plans, deployment decisions, procedures, performance targets and delivery controls. I lead the field workforce, including recruitment, onboarding, training, deployment, supervision and performance management.
+
+The assignment is supported by a 13-person field team. I set execution expectations, monitor delivery, resolve operational bottlenecks and drive corrective action when activity or reporting falls short.
 
 ## Government and stakeholder coordination
 
-I report directly to the Director General for Revenue and coordinate operational delivery with Debt Collection, Corporates and Single Business Permit (SBP) functions. Field coordination also involves sub-county directors, county administrators, county billers and county security leadership.
+I report directly to the County Director General for Revenue and drive operational delivery across Revenue, Corporates and Business Permit (SBP) functions. I engage sub-county directors, administrators, county billers and county security leadership to resolve execution issues and keep field activity aligned with county priorities.
 
-The role requires consistent communication between county stakeholders and frontline teams, resolution of field obstacles, escalation of issues and follow-through on agreed operational priorities.
+I coordinate with county officials and legal counsel to clarify the assignment mandate, stakeholder responsibilities and applicable regulatory requirements. Matters requiring formal legal or statutory interpretation are referred to the appropriate county authorities or legal counsel.
 
-## Regulatory compliance and permit processes
+## Business verification and permit-related processes
 
-I coordinate business engagement and verification relating to business permit and licence applications and renewals, including follow-up with relevant county functions. I liaise with county officials and legal counsel on the assignment mandate, stakeholder responsibilities and regulatory requirements, escalating legal questions for appropriate guidance.
+I direct business engagement and verification relating to business permits and licences, including application and renewal follow-up with the relevant county functions. Field activity is aligned with county requirements and the assignment mandate.
 
-My work supports compliance-focused field execution through verification, back-checks, data validation, exception management and reconciliation. It does not replace the statutory responsibilities of county officials or the advice of legal counsel.
+## Reporting, reconciliation and operational controls
 
-## Field operations and controls
+I own operational reporting and data integrity, directing field back-checks, data validation, exception management and reconciliation. These routines address discrepancies and strengthen the accuracy and traceability of activity and collection records.
 
-My responsibilities include:
-
-- coordinating field plans, personnel deployment and daily execution;
-- supervising a 13-person field team;
-- supporting business engagement, verification and permit-related follow-up;
-- maintaining data capture, back-checks and submission validation;
-- monitoring targets, resolving operational issues and escalating exceptions;
-- coordinating reconciliation and performance reporting;
-- maintaining communication between the client, county functions and field teams.
+I enforce field procedures and controls designed to deter falsified records, irregular arrears adjustments, bribery and potential revenue leakage. Suspected misconduct or irregularities are escalated through the appropriate channels.
 
 ## Scale and assignment results
 
@@ -36,18 +35,18 @@ My responsibilities include:
 - **KSh 30M+ in invoices raised**
 - **KSh 14M+ in actual cash collected**
 
-These figures describe the results recorded across the assignment, rather than personal cash-handling totals.
+These are assignment-level results recorded across the engagement, not personal cash-handling totals.
 
 ## What the assignment demonstrates
 
-The work combines government stakeholder coordination, regulatory-compliance support, large-scale field delivery, team leadership and operational control. It requires translating county priorities into field plans, keeping verification and reporting traceable, and escalating issues to the appropriate decision-makers.
-
-The assignment has also included planning for potential expansion into county buildings and physical-planning activities; these are described as planned scope, not completed delivery.
+The work brings together director-level operational accountability, team leadership, government stakeholder coordination, compliance-focused field execution, performance management, data integrity and delivery controls. It requires translating county priorities into a workable operating model and making day-to-day decisions that keep the assignment moving.
 
 ## Status and confidentiality
 
-**Active engagement · 2026 — Present**
+**Active assignment · April 2026 – Present**
 
-Client-specific records, individual business information and confidential operational reports are not published here.
+Individual business records, taxpayer information, internal county records and confidential operational reports are not published.
+
+[Settle360 operating model and related delivery work](https://Nandwa254.github.io/projects/settle360.html)
 
 [Back to my GitHub profile](https://github.com/Nandwa254/Nandwa254)
