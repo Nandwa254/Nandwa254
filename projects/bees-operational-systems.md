@@ -15,7 +15,7 @@ I designed an Excel-based system that measured the time a file spent at each sta
 
 The system helped move the conversation from “loans are taking too long” to a more specific question: where is the delay happening?
 
-The wider workflow redesign and automation work resulted in a **70% reduction in process turnaround time**.
+The wider workflow redesign and automation work resulted in a **70% reduction in process turnaround time in selected workflows**.
 
 ## Branch Issue Escalation & Resolution System
 
