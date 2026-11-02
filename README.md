@@ -1,6 +1,6 @@
 # Harryson Nandwa
 
-### Operations Leadership · Product Delivery · Venture Building
+### Operations & Product · SME Growth · Commercial Execution · Programme Delivery
 
 I lead operating teams, deliver complex field assignments, build customer-facing products and improve the systems that connect people, processes, data and decisions.
 
@@ -106,7 +106,7 @@ Client website bringing music, podcasts, videos, biography, gallery content and 
 - **Founder & Operations Lead | Settle360** · 2025 – Present
 - **MSME Product Lead – Unsecured Lending | Choice Bank / Bees Credit Kenya** · November 2024 – August 2025
 - **Operations Manager | Bees Credit Kenya** · May 2024 – June 2025
-- **Call Center Collections Manager | Mwananchi Credit Limited** · May 2023 – September 2023
+- **Collections Manager | Mwananchi Credit Limited** · May 2023 – September 2023
 - **Call Center Manager, Collections | Eleving Group / Mogo Finance** · October 2021 – October 2022
 - **Head of Operations, Country | Grola Tech Ltd** · December 2020 – October 2021
 - **Supervisor, Credit Collection & Customer Service | Grola Tech Ltd** · January 2020 – December 2020
@@ -155,6 +155,19 @@ From there, I focus on practical execution: clear ownership, realistic targets, 
 
 **BSc Statistics & Mathematics**  
 Moi University · Applied Statistics & Mathematics
+
+**Professional certificates**
+- SPSS Statistical Analysis · Moi University · November 2016
+- Stata Statistical Analysis · Moi University · November 2016
+- R Statistical Programming · Moi University · October 2016
+
+## Community, NGO & ecosystem engagement
+
+**Nairobi Startup Club — Startup community participant**  
+Participate in coworking and founder-community activities, with exposure to local entrepreneurial problem-solving and ecosystem conversations.
+
+**Volunteer Mentor — Sisters of Mercy · January – December 2012**  
+Provided one-to-one mentorship and practical guidance, supporting participants to identify challenges, consider solutions and take constructive steps toward personal goals.
 
 ---
 
