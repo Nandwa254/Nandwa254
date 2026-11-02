@@ -29,7 +29,7 @@ The site also uses a real-estate/listing platform layer for the property-related
 
 [Open Settle360](https://settle360.co.ke/)
 
-[Settle360 case study](https://Nandwa254.github.io/projects/settle360.html)
+[Settle360 operations case study](settle360-operations.md)
 
 
 ## Related venture operations case study
