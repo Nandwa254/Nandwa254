@@ -30,4 +30,4 @@ The property and listing functionality is supported through the site's real-esta
 
 [Open HomeLink360](https://homelink360.co.ke/)
 
-[HomeLink360 case study](https://Nandwa254.github.io/projects/homelink360.html)
+[HomeLink360 venture case study](homelink360.md)
