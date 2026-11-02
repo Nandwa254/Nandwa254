@@ -125,7 +125,7 @@ Client website bringing music, podcasts, videos, biography, gallery content and 
 - **70%** reduction in process turnaround in selected workflows following workflow redesign and automation at Bees Credit.
 - **KSh 800M** portfolio managed in a collections leadership role, with a **25% improvement in recovery efficiency**.
 - **2×** contact-centre handling capacity and **35% lower resolution time** following operational transformation at Mogo Finance.
-- **150+** distributed collection agents led during the Grola Tech operations scale-up.
+- **150+** distributed collection agents led during the Grola Tech country-operations scale-up while senior leadership operated remotely during COVID-19.
 
 Figures relate to the specific assignments or roles stated. They should not be read as results from one combined portfolio.
 
