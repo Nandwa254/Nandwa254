@@ -172,7 +172,9 @@ Provided one-to-one mentorship and practical guidance, supporting participants t
 
 ---
 
-[Fundraising readiness case study](projects/fundraising-readiness.md)\n\n[Full case-study source index](CASE_STUDY_INDEX.md)
+[Fundraising readiness case study](projects/fundraising-readiness.md)
+
+[Full case-study source index](CASE_STUDY_INDEX.md)
 
 ## Find me elsewhere
 
