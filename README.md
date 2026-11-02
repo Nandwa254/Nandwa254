@@ -172,7 +172,9 @@ Provided one-to-one mentorship and practical guidance, supporting participants t
 
 ---
 
-[Fundraising readiness case study](projects/fundraising-readiness.md)\n\n[Full case-study source index](CASE_STUDY_INDEX.md)\n\n## Find me elsewhere
+[Fundraising readiness case study](projects/fundraising-readiness.md)\n\n[Full case-study source index](CASE_STUDY_INDEX.md)
+
+## Find me elsewhere
 
 [Portfolio](https://Nandwa254.github.io/) · [LinkedIn](https://www.linkedin.com/in/nandwaharryson/) · [GitHub](https://github.com/Nandwa254)
 
