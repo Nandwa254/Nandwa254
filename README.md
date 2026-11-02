@@ -14,7 +14,8 @@ This profile documents selected work, practical systems and operating experience
 
 ### Kajiado County Revenue Compliance & Field Operations
 
-**Technical Director – Operations & Delivery | Sary Network International Ltd | Settle360**  
+**Technical Director – Operations & Delivery**  
+**Joint delivery partnership: Settle360 and Sary Network International Ltd**  
 **April 2026 – Present · Kajiado County, Kenya**
 
 As Technical Director, I am accountable for operational execution, delivery control and performance across a county revenue-compliance assignment.
@@ -101,7 +102,7 @@ Client website bringing music, podcasts, videos, biography, gallery content and 
 
 ## Career experience
 
-- **Technical Director – Operations & Delivery | Kajiado County Revenue Compliance Assignment** — Sary Network International Ltd | Settle360 · April 2026 – Present
+- **Technical Director – Operations & Delivery | Kajiado County Revenue Compliance Assignment** — Joint delivery partnership between Settle360 and Sary Network International Ltd · April 2026 – Present
 - **Head of Growth | HomeLink360** · August 2025 – Present
 - **Founder & Operations Lead | Settle360** · 2025 – Present
 - **MSME Product Lead – Unsecured Lending | Choice Bank / Bees Credit Kenya** · November 2024 – August 2025
