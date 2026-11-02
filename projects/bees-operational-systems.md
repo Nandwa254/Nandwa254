@@ -53,6 +53,6 @@ These were internal business systems, so I am not publishing the original spread
 
 This page is about the work itself and my contribution to it.
 
-[Imarika product case study](https://Nandwa254.github.io/projects/imarika.html)
+[Imarika product case study](imarika-msme-lending.md)
 
 [Back to my portfolio](https://Nandwa254.github.io/)
