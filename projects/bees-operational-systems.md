@@ -27,17 +27,11 @@ I then built the supporting Apps Script-based system around that workflow.
 
 The main goal was simple: a branch should know where to raise an issue, who owns it, what happens next and when it needs to be escalated.
 
-## Imarika Credit Scoring Methodology & System
+## Imarika systems contribution
 
-For **Imarika unsecured MSME lending**, I designed and implemented the credit-scoring methodology and supporting system. The work established a structured, repeatable approach to assessing applications and supporting credit decisions. Detailed scoring rules and internal implementation are not published because the system formed part of a live lending operation.
+The Imarika credit-scoring methodology, supporting system and loan-tracking platform were developed as part of the unsecured MSME product work. The full product context, field research and pilot contribution are documented in the dedicated [Imarika MSME lending case study](imarika-msme-lending.md).
 
-## Imarika Loan Tracking System
-
-While working on the **Imarika MSME lending product**, I built a custom tracking system for operations and finance.
-
-I designed it around the actual loan workflow so the teams could follow and monitor loans more clearly.
-
-This work sat alongside my product responsibilities. I also mapped **400+ businesses across three counties** as part of the product research and pilot work, using field observations and customer feedback to shape the product and operating model.
+This case study focuses on the operational systems and workflow improvements, rather than repeating the Imarika product narrative.
 
 ## What I learned
 
