@@ -47,6 +47,6 @@ The work brings together director-level operational accountability, team leaders
 
 Individual business records, taxpayer information, internal county records and confidential operational reports are not published.
 
-[Settle360 operating model and related delivery work](https://Nandwa254.github.io/projects/settle360.html)
+[Settle360 operating model and related delivery work](settle360-operations.md)
 
 [Back to my GitHub profile](https://github.com/Nandwa254/Nandwa254)
