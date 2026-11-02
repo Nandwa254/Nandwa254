@@ -1,7 +1,7 @@
 # Kajiado County Revenue Compliance & Field Operations
 
 **Role:** Technical Director – Operations & Delivery  
-**Engagement shown on LinkedIn:** Sary Network International Ltd | Settle360  
+**Delivery arrangement:** Settle360 and Sary Network International Ltd jointly undertook the county contract as delivery partners. I held the Technical Director designation within this engagement.  
 **Period:** April 2026 – Present  
 **Location:** Kajiado County, Kenya
 
