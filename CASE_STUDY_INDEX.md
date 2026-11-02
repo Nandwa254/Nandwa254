@@ -35,7 +35,3 @@ This index identifies the single detailed written source for each public case st
 - [Professional profile and career summary](README.md)
 - [Visual portfolio homepage](https://nandwa254.github.io/)
 - [Project repository collection](https://github.com/Nandwa254)
-
-## Maintenance rule
-
-Update the authoritative written source first. Keep portfolio HTML pages concise and linked to that source. Do not create a second detailed copy of a case in another repository. When a case has a separate website-implementation note, that note must remain a distinct technical sub-project rather than repeating the main venture case.
