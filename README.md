@@ -6,7 +6,7 @@ I lead operating teams, deliver complex field assignments, build customer-facing
 
 I bring 9+ years of experience across financial services, lending, collections, customer operations, product development and venture building. My work spans frontline execution and team leadership, stakeholder coordination, portfolio and process improvement, product design, reporting, controls and technology-enabled workflows.
 
-This profile documents selected work, practical systems and operating experience.
+This profile documents selected work, practical systems and operating experience. The detailed case-study sources are maintained in the [Case Study Index](CASE_STUDY_INDEX.md).
 
 ---
 
@@ -26,7 +26,7 @@ The assignment includes legal and regulatory coordination with county officials 
 
 **Assignment-level outcomes:** **11,000+ businesses visited and verified**, **KSh 30M+ in invoices raised** and **KSh 14M+ in actual cash collected**. These are results recorded across the assignment, not personal cash-handling totals.
 
-[Read the Kajiado assignment case study](https://Nandwa254.github.io/projects/kajiado-revenue-operations.html) · [Settle360 operating model](https://Nandwa254.github.io/projects/settle360.html)
+[Authoritative Kajiado case study](projects/kajiado-revenue-operations.md) · [Settle360 operating case study](projects/settle360-operations.md)
 
 ---
 
@@ -40,7 +40,7 @@ Settle360 is a business-support and outsourcing venture focused on client delive
 The Kajiado revenue-compliance assignment demonstrates this operating capability at scale through field-team leadership, business verification, government stakeholder coordination and assignment-level delivery results.
 
 **Website:** [settle360.co.ke](https://settle360.co.ke/)  
-[Settle360 venture and operations case study](https://Nandwa254.github.io/projects/settle360.html) · [Website delivery notes](projects/settle360-website.md) · [Operating case study](projects/settle360-operations.md)
+[Authoritative Settle360 operations case study](projects/settle360-operations.md) · [Separate website implementation notes](projects/settle360-website.md)
 
 ### HomeLink360
 **Head of Growth · August 2025 – Present**
@@ -50,7 +50,7 @@ HomeLink360 is a housing-led service and financial-services venture. My work cov
 The proposition begins with housing search, placement and move-in support, with the potential to support appropriate additional financial services as the customer relationship develops.
 
 **Website:** [homelink360.co.ke](https://homelink360.co.ke/)  
-[HomeLink360 case study](https://Nandwa254.github.io/projects/homelink360.html)
+[Authoritative HomeLink360 case study](projects/homelink360.md) · [Separate website implementation notes](projects/homelink360-website.md)
 
 ---
 
@@ -62,7 +62,7 @@ The proposition begins with housing search, placement and move-in support, with 
 
 Led product design and pilot execution for an unsecured MSME lending solution. Mapped **400+ businesses across three counties**, designed and implemented the credit-scoring methodology and supporting system, shaped customer onboarding and lending workflows, and built a loan-tracking platform for operational and portfolio visibility.
 
-[Imarika case study](https://Nandwa254.github.io/projects/imarika.html)
+[Authoritative Imarika case study](projects/imarika-msme-lending.md)
 
 ### Operational Systems & Automation
 
@@ -72,31 +72,31 @@ Alongside the separate Imarika product appointment, I managed day-to-day operati
 
 Related systems included loan-stage time measurement, a branch issue escalation and resolution workflow, and supporting systems for Imarika credit scoring and loan tracking.
 
-[Operational systems case study](https://Nandwa254.github.io/projects/bees-operational-systems.html) · [Project notes](projects/bees-operational-systems.md)
+[Authoritative operational systems case study](projects/bees-operational-systems.md)
 
 ### Operations CRM & Workflow Platform
 
 A practical CRM and workflow platform built around customer records, work queues, assignments, follow-ups, reporting and operational visibility.
 
-[Repository](https://github.com/Nandwa254/operations-crm-case-study) · [Case study](https://Nandwa254.github.io/projects/operations-crm.html)
+[Repository](https://github.com/Nandwa254/operations-crm-case-study) · [Authoritative case study](https://github.com/Nandwa254/operations-crm-case-study/blob/main/docs/CASE_STUDY.md)
 
 ### Client Portal Application
 
 A mobile-first customer portal concept covering onboarding, secure access, service requests, document submission, messaging and status updates.
 
-[Repository](https://github.com/Nandwa254/client-portal-app-case-study) · [Case study](https://Nandwa254.github.io/projects/client-portal.html)
+[Repository](https://github.com/Nandwa254/client-portal-app-case-study) · [Authoritative case study](https://github.com/Nandwa254/client-portal-app-case-study/blob/main/docs/CASE_STUDY.md)
 
 ### Company Website Delivery
 
 Business website design and delivery, with attention to positioning, information structure, responsive presentation and customer access.
 
-[Repository](https://github.com/Nandwa254/company-website-case-study) · [Case study](https://Nandwa254.github.io/projects/company-website.html)
+[Repository](https://github.com/Nandwa254/company-website-case-study) · [Authoritative case study](https://github.com/Nandwa254/company-website-case-study/blob/main/docs/CASE_STUDY.md)
 
 ### Jessica Mandela – Artist Website
 
 Client website bringing music, podcasts, videos, biography, gallery content and booking enquiries into one responsive experience.
 
-[Live website](https://jessicamandela.com/) · [Case study](https://Nandwa254.github.io/projects/jessica-mandela.html)
+[Live website](https://jessicamandela.com/) · [Authoritative case study](projects/jessica-mandela-website.md)
 
 ---
 
@@ -172,7 +172,7 @@ Provided one-to-one mentorship and practical guidance, supporting participants t
 
 ---
 
-## Find me elsewhere
+[Fundraising readiness case study](projects/fundraising-readiness.md)\n\n[Full case-study source index](CASE_STUDY_INDEX.md)\n\n## Find me elsewhere
 
 [Portfolio](https://Nandwa254.github.io/) · [LinkedIn](https://www.linkedin.com/in/nandwaharryson/) · [GitHub](https://github.com/Nandwa254)
 
