@@ -29,7 +29,7 @@ As Founder & Operations Lead, I shape the venture's service proposition and oper
 The Kajiado County revenue-compliance engagement is a major example of field delivery at scale.
 
 **Assignment role:** Technical Director – Operations & Delivery  
-**Engagement shown on LinkedIn:** Sary Network International Ltd | Settle360  
+**Delivery arrangement:** Settle360 and Sary Network International Ltd jointly undertook the county contract as delivery partners. I held the Technical Director designation within this engagement.  
 **Period:** April 2026 – Present
 
 The assignment involves operational execution, a 13-person field team, business engagement and verification, permit-related follow-up, coordination with county revenue functions and sub-county leadership, performance reporting, reconciliation and field-integrity controls.
