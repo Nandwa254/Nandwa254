@@ -3,7 +3,7 @@
 This earlier project note has been consolidated into the current case study to keep the public record accurate and consistent with the updated role title and assignment remit.
 
 **Current role:** Technical Director – Operations & Delivery  
-**Engagement:** Sary Network International Ltd | Settle360  
+**Delivery arrangement:** Joint delivery partnership between Settle360 and Sary Network International Ltd  
 **Assignment:** Kajiado County Revenue Compliance Operations  
 **Period:** April 2026 – Present
 
