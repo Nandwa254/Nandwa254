@@ -41,7 +41,7 @@ The assignment involves operational execution, a 13-person field team, business 
 
 These are results recorded across the assignment and delivered through the wider field operation. They are not presented as personal cash-handling totals.
 
-[Read the Kajiado assignment case study](https://Nandwa254.github.io/projects/kajiado-revenue-operations.html)
+[Read the authoritative Kajiado assignment case study](kajiado-revenue-operations.md)
 
 ## Website and digital presence
 
@@ -49,7 +49,7 @@ The public website presents Settle360's business-support and outsourcing proposi
 
 The website was configured and delivered using WordPress, Astra, Elementor, WPForms, WP Mail SMTP, Rank Math SEO and Popup Maker, with HTML/CSS and supporting integrations where required.
 
-[Visit Settle360](https://settle360.co.ke/) · [Website delivery notes](settle360-website.md) · [Public case study](https://Nandwa254.github.io/projects/settle360.html)
+[Visit Settle360](https://settle360.co.ke/) · [Separate website implementation notes](settle360-website.md)
 
 ## Public boundary
 
